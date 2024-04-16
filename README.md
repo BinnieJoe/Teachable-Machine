@@ -1,5 +1,5 @@
 # Teachable-Machine
-Teachable-Machine을 이용한 Object Detection
+Object Detection Using Teachable Machine
 ### What is Teachable Machine?
 Teachable Machine is a web-based tool that makes creating machine learning models fast, easy, and accessible for everyone. You can try it here.
 
