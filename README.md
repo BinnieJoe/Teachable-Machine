@@ -8,3 +8,10 @@ Educators, artists, students, innovators, makers of all kinds – really, anyone
 
 ### How does it work?
 You train a computer to recognize your images, sounds, and poses without writing any machine learning code. Then, use your model in your own projects, sites, apps, and more.
+
+### A Python GUI program utilizing an AI model created with Teachable. 
+- This program does not use a camera. 
+- It identifies four different classes. 
+- The model performance (images) can be accessed in the REPO under the "Model" folder.
+
+![2024-04-16 152910](https://github.com/user-attachments/assets/13cf4b5e-9e26-4a8d-b371-55da686d64cc)
