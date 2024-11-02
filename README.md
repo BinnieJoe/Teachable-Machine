@@ -10,7 +10,7 @@ Educators, artists, students, innovators, makers of all kinds – really, anyone
 You train a computer to recognize your images, sounds, and poses without writing any machine learning code. Then, use your model in your own projects, sites, apps, and more.
 
 ## Skills
-- Teachable Machine: A platform that helps users easily train machine learning models
+- ###Teachable Machine: A platform that helps users easily train machine learning models
 - Object Recognition: Experience in recognizing specific objects using Teachable Machine
 - Data Labeling: Preparing for model training by uploading and labeling image data
 - Basic Machine Learning Understanding: Basic understanding of model training process and result analysis
